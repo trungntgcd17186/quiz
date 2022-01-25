@@ -84,3 +84,52 @@ export const quizData = [
     ],
   },
 ];
+
+export const listQuestions = [
+  {
+    id: "giCungDuoc1",
+    title: "Which language runs in a web browser?",
+    answerId: "whatEver1",
+    options: [
+      {
+        id: "whatEver1",
+        label: "label1",
+      },
+      {
+        id: "whatEver2",
+        label: "label2",
+      },
+      {
+        id: "whatEver3",
+        label: "label3",
+      },
+      {
+        id: "whatEver4",
+        label: "label4",
+      },
+    ],
+  },
+  {
+    id: "giCungDuoc2",
+    title: "Which language runs in a web browser gi gi do?",
+    answerId: "whatEver2",
+    options: [
+      {
+        id: "whatEver1",
+        label: "label1",
+      },
+      {
+        id: "whatEver2",
+        label: "label2",
+      },
+      {
+        id: "whatEver3",
+        label: "label3",
+      },
+      {
+        id: "whatEver4",
+        label: "label4",
+      },
+    ],
+  },
+];
